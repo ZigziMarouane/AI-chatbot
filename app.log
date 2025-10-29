@@ -1,5 +1,0 @@
-2025-10-29 14:18:31,000 - __main__ - INFO - Connexion à la base de données établie avec succès
-2025-10-29 14:18:42,996 - __main__ - ERROR - Erreur d'initialisation du LLM: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
-2025-10-29 14:18:55,922 - __main__ - ERROR - Échec de réinitialisation du LLM: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
-2025-10-29 14:19:20,417 - __main__ - ERROR - Erreur d'initialisation du LLM: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information.
-2025-10-29 14:19:20,417 - __main__ - ERROR - Échec de l'initialisation de la chaîne SQL

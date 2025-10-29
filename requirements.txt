@@ -1,0 +1,13 @@
+# Interface utilisateur
+streamlit==1.31.1
+
+# Gestion des variables d'environnement
+python-dotenv==1.0.0
+
+# LangChain et ses composants
+langchain-core==0.1.24
+langchain-community==0.0.21
+langchain-google-genai==0.0.11
+
+# Base de données
+mysql-connector-python==8.3.0
